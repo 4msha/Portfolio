@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="_x34_1468acd-cd3b-42a6-b6d6-962a1482835f"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 869 634.7"
+	 style="enable-background:new 0 0 869 634.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FAFAFA;}
+	.st2{fill:#E0E0E0;}
+	.st3{fill:url(#SVGID_2_);}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#6C63FF;}
+	.st6{fill:#0022F4;stroke:#000000;stroke-miterlimit:10;}
+	.st7{font-family:'MyriadPro-Regular';}
+	.st8{font-size:88px;}
+	.st9{letter-spacing:2;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="762.355" y1="-131.37" x2="762.355" y2="345.18" gradientTransform="matrix(1 0 0 -1 -165.5 503.37)">
+	<stop  offset="1.000000e-02" style="stop-color:#808080;stop-opacity:0.25"/>
+	<stop  offset="0.54" style="stop-color:#808080;stop-opacity:0.12"/>
+	<stop  offset="1" style="stop-color:#808080;stop-opacity:0.1"/>
+</linearGradient>
+<path class="st0" d="M832.9,158.2H401.5c-42.4,0-76.7,34.7-76.7,77.5v268.2c-0.1,20,16.1,36.3,36.1,36.4c0,0,0,0,0,0h274
+	c9.1,31.6,32,75.1,89.6,94.5l-16.3-94.5h124.7c20-0.1,36.2-16.4,36.1-36.4c0,0,0,0,0,0V194.6C869.1,174.6,852.9,158.3,832.9,158.2
+	C832.9,158.2,832.9,158.2,832.9,158.2z"/>
+<path class="st1" d="M825.7,167.2H406.8c-41.1,0-74.5,33.4-74.5,74.5v257.8c0,19.3,15.7,35,35,35h266c8.8,30.3,31.1,72.2,87,90.8
+	l-15.8-90.8h121.1c19.3,0,35-15.7,35-35l0,0V202.3C860.6,182.9,845,167.3,825.7,167.2z"/>
+<rect x="500.8" y="234.2" class="st2" width="216.5" height="27.1"/>
+<rect x="634.8" y="284.1" class="st2" width="81.2" height="27.1"/>
+<rect x="554.7" y="334.1" class="st2" width="160.1" height="27.1"/>
+<rect x="517.2" y="384" class="st2" width="196.3" height="27.1"/>
+<rect x="608.8" y="434" class="st2" width="103.5" height="27.1"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="436.1099" y1="27.43" x2="436.1099" y2="503.37" gradientTransform="matrix(1 0 0 -1 -165.5 503.37)">
+	<stop  offset="1.000000e-02" style="stop-color:#808080;stop-opacity:0.25"/>
+	<stop  offset="0.54" style="stop-color:#808080;stop-opacity:0.12"/>
+	<stop  offset="1" style="stop-color:#808080;stop-opacity:0.1"/>
+</linearGradient>
+<path class="st3" d="M35.9,0h469.4c19.8,0,35.9,16.3,35.9,36.4v308.8c0,20.1-16.1,36.4-35.9,36.4H232.9c-9.1,31.5-31.9,75-89.1,94.3
+	l16.2-94.3h-124C16.1,381.6,0,365.3,0,345.2V36.4C0,16.3,16.1,0,35.9,0z"/>
+<path class="st4" d="M41.3,9.5h458.2c19.3,0,35,15.7,35,35v297.3c0,19.3-15.7,35-35,35l0,0H233.6c-8.9,30.3-31.1,72.2-87,90.8
+	l15.8-90.8H41.3c-19.3,0-35-15.7-35-35V44.5C6.3,25.2,21.9,9.5,41.3,9.5C41.3,9.5,41.3,9.5,41.3,9.5z"/>
+<rect x="162.2" y="66.6" class="st5" width="216.5" height="27.1"/>
+<rect x="163.4" y="116.6" class="st5" width="81.2" height="27.1"/>
+<rect x="164.6" y="166.5" class="st5" width="160.1" height="27.1"/>
+<rect x="165.9" y="216.5" class="st5" width="196.3" height="27.1"/>
+<rect x="167.1" y="266.4" class="st5" width="103.5" height="27.1"/>
+<text transform="matrix(1 0 0 1 116 523)" class="st6 st7 st8 st9">Chat Application</text>
+</svg>

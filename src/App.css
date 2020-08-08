@@ -1,3 +1,9 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+  /* background-color: #b5edf5; */
+}
 .App {
   text-align: center;
 }
@@ -35,4 +41,98 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.landing {
+  width: 100vw;
+  height: 100vh;
+}
+
+.intro {
+  vertical-align: auto;
+  align-items: center;
+  font-family: serif;
+}
+
+.intro-sub {
+  color: #23344f;
+}
+
+.navbar {
+  background-color: pink;
+  width: 100vw;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+  letter-spacing: 5px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  letter-spacing: 7px;
+  color: white;
+}
+
+.fuck {
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  color: pink;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.slide1 {
+  background-color: powderblue;
+  border-radius: 50%;
+}
+
+.storyrow {
+  height: 40vh;
+}
+.brief {
+  height: 100vh;
+  width: 100vw;
+  background-color: pink;
+  border-radius: 30%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.list-group-item {
+  border: none;
+}
+
+.tripplin {
+  width: 35vw;
+  height: 50vh;
+}
+.tripplin:hover {
+  box-shadow: powderblue;
+}
+
+.card-title {
+  font-size: large;
+  font-weight: 500;
+}
+
+.footer {
+  background-color: pink;
+}
+
+.btn {
+  border-radius: 50%;
+  border-color: white;
+  border-width: 2px;
+}
+
+.fa {
+  color: white;
+}
+
+.btn:hover {
+  box-shadow: 5px 5px #fff;
+}
+.project {
+  width: 35vw;
+  height: 30vh;
 }
